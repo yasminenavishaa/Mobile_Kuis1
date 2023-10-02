@@ -161,4 +161,4 @@ var name2 = 'Yasmine' ' Navisha ' ' Andhani'; : Pada bagian ini, mencoba menggab
 
 ![Alt text](image-22.png)
 
-    var kalmiat_panjang = ''' ... '''; : Merupakan deklarasi variabel kalmiat_panjang. Kita menggunakan tanda kutip tiga (''') untuk mendefinisikan string multi-baris.
+var kalmiat_panjang = ''' ... '''; : Merupakan deklarasi variabel kalmiat_panjang. Kita menggunakan tanda kutip tiga (''') untuk mendefinisikan string multi-baris.
